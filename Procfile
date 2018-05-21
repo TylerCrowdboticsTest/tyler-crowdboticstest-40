@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT tyler_crowdboticstest_40.wsgi:application
